@@ -10,3 +10,4 @@ A Jupyter notebook to analyze trends in pipeline incidents in the US from 2010 t
 3. What places have a higher risk? 
 
 ![map](/incident_ditribution.png)
+![states](/incident_states.png)
