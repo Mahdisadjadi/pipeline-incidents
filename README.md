@@ -13,3 +13,5 @@ five questions:
 
 ![map](/incident_ditribution.png)
 ![states](/incident_states.png)
+
+This repository is also publishes as a [blog post](http://mahdisadjadi.com/blog/20161203_pipeline/).
