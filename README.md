@@ -14,4 +14,22 @@ five questions:
 ![map](/incident_ditribution.png)
 ![states](/incident_states.png)
 
-This repository is also publishes as a [blog post](http://mahdisadjadi.com/blog/20161203_pipeline/).
+## Prerequisites
+* numpy
+* pandas
+* matplotlib
+* plotly
+
+## Dataset
+The dataset contains 'Flagged Incidents' from PHMSA Pipeline Safety [website](http://www.phmsa.dot.gov/pipeline/library/data-stats/flagged-data-files).
+
+## Authors
+Mahdi Sadjadi - http://mahdisadjadi.com/
+
+## Reference
+This repository is also published as a
+[blog post](http://mahdisadjadi.com/blog/20161203_pipeline/).
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file
+for details. The dataset is
