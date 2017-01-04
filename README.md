@@ -1,4 +1,4 @@
-# Pipelines incidents
+# The US pipelines incidents
 ### From 2010 to October 2016
 
 A Jupyter notebook to analyze trends in pipeline incidents in the US from 2010
