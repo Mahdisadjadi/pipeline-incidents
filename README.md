@@ -1,8 +1,8 @@
 # The US pipelines incidents
-### From 2010 to October 2016
+### From 2010 to October 2017
 
 A Jupyter notebook to analyze trends in pipeline incidents in the US from 2010
-to October 2016. Different aspect of incidents are considered to answer these
+to October 2017. Different aspects of the incidents are considered to answer these
 five questions:
 
 1. How common are spills?
@@ -21,7 +21,7 @@ five questions:
 * plotly
 
 ## Dataset
-The dataset contains 'Flagged Incidents' from PHMSA Pipeline Safety [website](http://www.phmsa.dot.gov/pipeline/library/data-stats/flagged-data-files).
+The dataset contains 'Flagged Incidents' from PHMSA Pipeline Safety [website](https://www.phmsa.dot.gov/data-and-statistics/pipeline/pipeline-incident-flagged-files).
 
 ## Authors
 Mahdi Sadjadi - http://mahdisadjadi.com/
