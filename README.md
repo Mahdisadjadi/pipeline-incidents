@@ -14,7 +14,7 @@ five questions:
 ![map](/incident_ditribution.png)
 ![states](/incident_states.png)
 
-## Prerequisites
+## Required libraries
 * numpy
 * pandas
 * matplotlib
