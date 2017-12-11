@@ -14,6 +14,19 @@ five questions:
 ![map](/incident_ditribution.png)
 ![states](/incident_states.png)
 
+# How it works?
+At this moment, all the code is in `pipeline.ipynb` file. It mainly performs the
+following actions:
+* Checks the latest update in the dataset. If the date is more than `number_of_days` variable,
+it downloads the latest dataset from the server and replaces the old dataset locally.
+* Extracts the required columns from the dataset, cleans the values (both text and `NaN`) and converts
+the units to more useful ones. Finally it saves the cleaned dataset locally. It also
+exports a `json` file containing the summary of data. This file will be used to create a
+website which shows the summary using D3 library.
+* Plots multiple figures showing temporal and spatial trends in spills and their
+financial and environmental damage.
+* Some figures are exported to be used in the [README](README.md) file and the final report.
+
 ## Required libraries
 * numpy
 * pandas
